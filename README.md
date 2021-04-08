@@ -1,9 +1,9 @@
-#### Hand Gesture Recognition from a Sigle Depth image
+### Hand Gesture Recognition from a Sigle Depth image
 
-##### Datasets
+#### Datasets
 
-##### Preprocessing
+#### Preprocessing
 
-##### Model
+#### Model
 
-##### Results
+#### Results
