@@ -1,0 +1,13 @@
+
+net: "/home/yaxinshen/trainN.prototxt"
+display: 10
+base_lr: 0.0001
+lr_policy: "fixed"
+gamma: 0.5
+stepsize: 500
+momentum: 0.9
+max_iter: 100000
+weight_decay: 0.0005
+snapshot: 10
+snapshot_prefix: "/home/yaxinshen/model/model"
+solver_mode: GPU
