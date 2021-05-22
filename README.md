@@ -1,7 +1,8 @@
 ### Hand Gesture Recognition from a Sigle Depth image
 This repository contains code for the hand gesture recognition mentioned in the paper: [Deep gesture interaction for augmented anatomy learning](https://www.sciencedirect.com/science/article/abs/pii/S0268401217308678)
 
-
+#### Dataset
+[Creative Senz3D](https://lttm.dei.unipd.it/downloads/gesture/#senz3d)
 #### Preprocessing
 
 #### Training
