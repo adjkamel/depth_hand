@@ -26,6 +26,6 @@ Demo:
 The prediction results (probability of the gesture to be the correct gesture) are stored in .mat file. Here we show the prediction result of the subject S4. To run the demo open this directory with matlab and run main.m file.
 
 ---
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/50513215/119235826-31007200-bb2c-11eb-9034-f367e5f91934.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/50513215/119239546-bcd0c900-bb41-11eb-9789-a6f5c3b09ca3.gif)
 
 ---
