@@ -29,3 +29,16 @@ The prediction results (probability of the gesture to be the correct gesture) ar
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/50513215/119239546-bcd0c900-bb41-11eb-9789-a6f5c3b09ca3.gif)
 
 ---
+#### Citation
+If you use this code for your research, please cite the following papers:
+```
+@article{karambakhsh2019deep,
+  title={Deep gesture interaction for augmented anatomy learning},
+  author={Karambakhsh, Ahmad and Kamel, Aouaidjia and Sheng, Bin and Li, Ping and Yang, Po and Feng, David Dagan},
+  journal={International Journal of Information Management},
+  volume={45},
+  pages={328--336},
+  year={2019},
+  publisher={Elsevier}
+}
+```
