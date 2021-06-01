@@ -30,7 +30,7 @@ The prediction results (probability of the gesture to be the correct gesture) ar
 
 ---
 #### Citation
-If you use this code for your research, please cite the following papers:
+If you use this code for your research, please cite the following paper:
 ```
 @article{karambakhsh2019deep,
   title={Deep gesture interaction for augmented anatomy learning},
